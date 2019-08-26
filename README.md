@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# gitblog
 这是一个极轻量级的，基于git issue的个人博客模板，非常适合于想在GitHub pages上搭建个人博客的人。
 
@@ -145,3 +146,7 @@ totop.png|右下角“回到顶部”按钮图标
 
 ## 许可
 MIT LICENSE
+=======
+# wenyuehe.github.io
+Writing 1000 Words a Day Changed My Life
+>>>>>>> e07fb708fc872e614277f6be61ea48e4d353188c
